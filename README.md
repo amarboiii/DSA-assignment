@@ -1,3 +1,6 @@
+Amar Geo 
+CSE A 
+RollNo: 11
 An online bookstore stores the following ISBN keys:
 45, 20, 60, 10, 30, 50, 70, 25, 55
 a) Construct a Binary Search Tree (BST) by inserting the ISBNs in the given order.
